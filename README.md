@@ -1,5 +1,5 @@
 # MazeBall
-A Unity3D puzzle game made for Oculus Rift.
+A Unity3D puzzle game made for Oculus Rift. Scripts for object physics, control, and game logic done in C#. Desigined for Oculus hardware with specific headset functionality built out, as well.
 
 ## Summary
 Made as a final project for a VR class in Spring 2017 as a student at the University of Illinois. This repo will mainly be an overview the project itself and how it works. *(Note: As of Dec. 2018, will try to add some of the codebase here, but ulitmately the project is large and designed for school, so may not be able to put too much here)*
